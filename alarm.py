@@ -6,6 +6,7 @@ from tkinter import *
 from tkinter import ttk
 import time
 from threading import *
+import pygame
 from pygame import mixer
 
 root = Tk()
